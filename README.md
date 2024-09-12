@@ -3,7 +3,7 @@
 A curated list of mental health resources, services, and directories across Canada. This repository aims to provide accessible and reliable mental health links to support individuals in need.
 
 ## Directories
-- [Theralist.ca](https://theralist.ca) - A comprehensive directory to find mental health therapists in Canada, with filters for specialty, client age, therapist gender, and more.
+- [Theralist](https://theralist.ca) - A comprehensive directory to find mental health therapists in Canada, with filters for specialty, client age, therapist gender, and more.
 - [Psychology Today Canada](https://www.psychologytoday.com/ca/therapists) - A popular directory to find therapists and psychologists across Canada.
 - [Find a Psychologist – Canadian Psychological Association](https://www.cpa.ca/public/findingapsychologist/) - A national directory to locate licensed psychologists in Canada.
 - [MindBeacon](https://www.mindbeacon.com) - A digital therapy platform offering guided CBT and mental health support across Canada.
