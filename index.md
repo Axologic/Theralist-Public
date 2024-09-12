@@ -3,12 +3,8 @@ layout: default
 title: Home
 ---
 
-# Awesome Mental Health Links in Canada
-
-A curated list of mental health resources, services, and directories across Canada. This repository aims to provide accessible and reliable mental health links to support individuals in need.
-
 ## Directories
-- [Theralist.ca](https://theralist.ca) - A comprehensive directory to find mental health therapists in Canada, with filters for specialty, client age, therapist gender, and more.
+- [Theralist](https://theralist.ca) - A comprehensive directory to find mental health therapists in Canada, with filters for specialty, client age, therapist gender, and more.
 - [Psychology Today Canada](https://www.psychologytoday.com/ca/therapists) - A popular directory to find therapists and psychologists across Canada.
 - [Find a Psychologist – Canadian Psychological Association](https://www.cpa.ca/public/findingapsychologist/) - A national directory to locate licensed psychologists in Canada.
 - [MindBeacon](https://www.mindbeacon.com) - A digital therapy platform offering guided CBT and mental health support across Canada.
@@ -49,9 +45,3 @@ A curated list of mental health resources, services, and directories across Cana
 - [Canadian Mental Health Association](https://cmha.ca) - Offers nationwide mental health programs, services, and information.
 - [Mental Health Commission of Canada](https://www.mentalhealthcommission.ca) - Advocates for mental health strategies, policies, and initiatives in Canada.
 - [Jack.org](https://jack.org) - A network of young leaders transforming the way Canadians think about mental health.
-
-## Contributing
-Feel free to open a pull request to add any relevant mental health resources or suggest changes. We welcome contributions from the community to ensure this list remains current and useful!
-
-## License
-This project is licensed under the MIT License.
